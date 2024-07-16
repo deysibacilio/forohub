@@ -2,15 +2,17 @@
 
 ## Descripción
 
-ForoHub es un foro en línea donde los usuarios pueden compartir ideas, hacer preguntas y discutir sobre diversos temas.
+ForoHub es un foro en línea donde los usuarios pueden compartir ideas, hacer preguntas y discutir sobre diversos temas. Este proyecto replica el proceso de un foro a nivel de back end, creando una API REST usando Spring.
 
 ## Características
 
-- Creación de cuentas de usuario
-- Publicación de temas y respuestas
-- Sistema de votación para calificar las respuestas
-- Buscador de temas
-
+Nuestra API se centra específicamente en los tópicos y permite a los usuarios:
+- Crear un nuevo tópico
+- Mostrar todos los tópicos creados
+- Mostrar un tópico específico
+- Actualizar un tópico
+- Eliminar un tópico
+  
 ## Tecnologías utilizadas
 
 - Java
@@ -19,9 +21,9 @@ ForoHub es un foro en línea donde los usuarios pueden compartir ideas, hacer pr
 
 ## Cómo ejecutar el proyecto localmente
 
-1. Clona el repositorio en tu máquina local con .
-2. Navega hasta la carpeta del proyecto con .
-3. Ejecuta el proyecto con.
+1. Clona el repositorio en tu máquina local.
+2. Navega hasta la carpeta del proyecto.
+3. Ejecuta el proyecto.
 
 ## Licencia
 
